@@ -1,2 +1,2 @@
-# trainee
-learning some code here
+# Geek
+code time!
